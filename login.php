@@ -1,7 +1,4 @@
-<?php
-ob_start();
-session_start();
-?>
+
 <!doctype html>
 <html lang="en">
 <head>
